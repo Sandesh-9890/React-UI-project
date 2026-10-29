@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './Components/Section1/Navbar'
-import Section from './Components/Section2/Section'
+import Section from './Components/Section'
 
 const App = () => {
   return (
